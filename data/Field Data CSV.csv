@@ -1,0 +1,277 @@
+﻿ID,Date,Address,City,State,Zip,Num of Units,Comments,Completion Status,Units Category,High Unit Count,Long,Lat
+1,7/2/2022 6:53,1626 Lyndon St,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1489859,34.11124003
+2,38:06.8,2050 Huntington Dr,South Pasadena,CA,91030,5,Site is a medical/ dental center. First floor has parking. Second floor has units. QC,Verified,4-6 units,< 14 units,-118.1381678,34.10503629
+3,7/1/2022 7:20,2012 Huntington Dr,South Pasadena,CA,91030,12,None,Verified,10+ units,< 14 units,-118.1392429,34.10458639
+4,7/1/2022 7:25,2035 Huntington Dr,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1378773,34.10461581
+5,7/1/2022 7:28,2107 Huntington Dr,South Pasadena,CA,91030,9,None,Verified,7-9 units,< 14 units,-118.1369362,34.10516488
+6,43:05.3,2111 Huntington Dr,South Pasadena,CA,91030,10,Also with 1801 Olive St. QC,Verified,10+ units,< 14 units,-118.1366505,34.10535419
+7,7/1/2022 7:57,2126 Huntington Dr,South Pasadena,CA,91030,0,Did not attempt. Private indoor common area locked.,Denied Entry,,< 14 units,-118.1361492,34.1062294
+8,7/1/2022 8:06,2114 Huntington Dr ,South Pasadena,CA,91030,0,Did not attempt. Gate to common outdoor area stated to beware of dog.,Denied Entry,,< 14 units,-118.1364121,34.10606071
+9,7/1/2022 8:12,1974 Huntington Dr ,South Pasadena,CA,91030,0,Site is under construction and is not inhabited.,Denied Entry,,< 14 units,-118.1405366,34.10444701
+10,43:21.6,1760 State St,South Pasadena,CA,91030,42,None,Verified,10+ units,14+ units,-118.1463738,34.12261669
+11,7/11/2022 23:46,1800 State St,South Pasadena,CA,91030,96,Took picture but is not clear.,Verified,10+ units,14+ units,-118.1465612,34.12364981
+12,48:52.9,1744 State St,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1465636,34.12144022
+13,52:27.0,1732 State St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1467454,34.12111939
+14,53:57.3,1754 State St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1463774,34.1221036
+15,55:27.1,1748 State St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1464346,34.12184821
+16,03:22.6,1220 Lyndon St,South Pasadena,CA,91030,0,Did not attempt. Gate to common area locked. Warehouse unit.,Denied Entry,,< 14 units,-118.154689,34.11112423
+17,06:47.2,1311 Fremont Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1533523,34.11054181
+18,12:39.7,1972 Fletcher Ave,South Pasadena,CA,91030,0,Did not attempt. Is single unit housing.,Denied Entry,,< 14 units,-118.1422078,34.10148448
+19,38:23.4,1311 Lyndon St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1540996,34.11079096
+20,42:06.4,1116 Fair Oaks Ave,South Pasadena,CA,91030,0,Did not attempt. Gate to common area locked.,Denied Entry,,< 14 units,-118.150168,34.11311789
+21,45:01.1,1711 Oxley St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1485733,34.11375596
+22,48:29.4,1725 Oxley St,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1478267,34.11369789
+23,51:33.4,1721 Oxley St,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1480953,34.11370074
+24,55:01.7,1731 Oxley St,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1476405,34.1137652
+25,57:09.4,715 Brent Ave,South Pasadena,CA,91030,24,None,Tentative,10+ units,14+ units,-118.1492148,34.11761994
+26,58:01.2,1938 Mill Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1427889,34.11946145
+27,00:32.0,1930 Mill Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1430903,34.11933906
+28,12:21.0,1744 Foothill St,South Pasadena,CA,91030,16,More addresses can be captured. See Jeff. Each unit to have its own map?,Tentative,10+ units,14+ units,-118.1465535,34.11985709
+29,15:11.6,506 Garfield Ave,South Pasadena,CA,91030,0,Did not attempt. Gate to property locked.,Denied Entry,,< 14 units,-118.1450727,34.12001507
+30,15:11.6,512 Garfield Ave,South Pasadena,CA,91030,0,Did not attempt. Gate to property locked.,Denied Entry,,< 14 units,-118.1450546,34.12001813
+31,15:11.6,514 Garfield Ave,South Pasadena,CA,91030,0,None,Denied Entry,,< 14 units,-118.1450381,34.12001978
+32,15:11.6,516 Garfield Ave,South Pasadena,CA,91030,0,None,Denied Entry,,< 14 units,-118.1450232,34.12002151
+33,20:39.2,435 Garfield Ave,South Pasadena,CA,91030,0,Did not attempt. Door to property locked.,Denied Entry,,< 14 units,-118.1457163,34.12110201
+34,29:11.3,1812 Hardison Pl,South Pasadena,CA,91030,0,Under construction. Not inhabited.,Denied Entry,,< 14 units,-118.1446697,34.12081136
+35,30:40.3,1810 Hardison Pl,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1448932,34.12078907
+36,33:46.9,1818 Hardison Pl,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1444869,34.12083079
+37,43:45.6,306 Garfield Ave,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1454624,34.12274072
+38,43:45.6,308 Garfield Ave,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1454759,34.12259746
+39,43:45.6,304 Garfield Ave,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1454897,34.12289184
+40,43:45.6,302 Garfield Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1454984,34.12303272
+41,02:12.6,509 Fair Oaks Ave,South Pasadena,CA,91030,12,There is another building on property that is under construction. Door was locked.,Tentative,10+ units,< 14 units,-118.150538,34.11967932
+42,14:40.2,513 Fair Oaks Dr,South Pasadena,CA,91030,12,Grouped with 509 Fair Oaks Ave.,Tentative,10+ units,< 14 units,-118.1505402,34.11953163
+43,33:14.5,1718 State St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1470886,34.12068666
+44,34:52.5,1724 State St,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1468609,34.12090397
+45,36:39.9,1699 Amberwood Dr,South Pasadena,CA,91030,0,Did not attempt. Door to property locked.,Denied Entry,,< 14 units,-118.1485922,34.12084179
+46,38:23.9,410 Raymondale Dr,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1478987,34.12042272
+47,41:43.3,1732 Raymon Hill Rd,South Pasadena,CA,91030,0,Did not attempt. Door to common locked.,Denied Entry,,< 14 units,-118.1476799,34.12359055
+48,7/14/2022 2:45,300 Mockingbird Ln,South Pasadena,CA,91030,8,None.,Verified,7-9 units,< 14 units,-118.1471602,34.12261011
+49,7/11/2022 7:56,1746 Foothill Dr,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1464588,34.11985584
+50,7/11/2022 8:00,1748 Foothill St,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1467995,34.11984091
+51,7/11/2022 8:01,1750 Foothill St,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1469185,34.11983358
+52,47:48.1,1030 Magnolia St,South Pasadena,CA,91030,8,Also 1034 Magnolia,Verified,7-9 units,< 14 units,-118.1555924,34.11795019
+53,51:17.2,1110 Magnolia St,South Pasadena,CA,91030,15,Also 1114 Magnolia St and 1118 Magnolia St.,Verified,10+ units,14+ units,-118.1545537,34.11795386
+54,53:33.4,1018 Magnolia St,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.156096,34.11797832
+55,16:38.7,1029 Magnolia St,South Pasadena,CA,91030,8,Redraw map. ,Verified,7-9 units,< 14 units,-118.1557394,34.11762809
+56,30:24.3,708 Meridian Ave,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1569054,34.11737166
+57,33:21.8,601 Meridian Ave,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1573009,34.11858281
+58,7/23/2022 1:35,635 Prospect Ave,South Pasadena,CA,91030,32,None,Verified,10+ units,14+ units,-118.1587362,34.11765849
+59,46:31.9,617 Prospect Ave,South Pasadena,CA,91030,20,None,Verified,10+ units,14+ units,-118.1586933,34.11820693
+60,50:49.1,605 Prospect Ave,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1587113,34.118649
+61,29:05.3,831 Grevelia St,South Pasadena,CA,91030,12,Also 827 and 829 Grevelia St.,Verified,10+ units,< 14 units,-118.1590382,34.1186908
+62,42:01.5,825 Grevelia St,South Pasadena,CA,91030,6,Also 823 and 821 Grevelia St.,Verified,4-6 units,< 14 units,-118.1593526,34.11871077
+63,56:34.3,609 Prospect Ave,South Pasadena,CA,91030,30,None. QC,Verified,10+ units,14+ units,-118.1586824,34.11841782
+64,57:50.7,612 Prospect Ave,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1583487,34.11837402
+65,12:37.6,616 Prospect Ave,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1583485,34.11821628
+66,15:17.1,622 Prospect Ave,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1583357,34.1180527
+67,26:54.3,626 Prospect Ave,South Pasadena,CA,91030,12,None,Verified,10+ units,< 14 units,-118.1583141,34.11785029
+68,33:17.7,634 Prospect Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1583485,34.11770177
+69,41:07.7,640 Prospect Ave,South Pasadena,CA,91030,9,None,Verified,7-9 units,< 14 units,-118.1582721,34.11746527
+70,7/22/2022 17:50,623 Prospect Ave,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1587171,34.11799111
+71,47:49.0,344 Pasadena Ave,South Pasadena,CA,91030,0,Did not attempt. Appears to be single-unit housing.,Denied Entry,,< 14 units,-118.1673625,34.11477391
+72,50:07.9,396 Pasadena Ave,South Pasadena,CA,91030,10,Also with 390 Pasadena Ave.,Verified,10+ units,< 14 units,-118.1670156,34.11521236
+73,52:29.2,326 Pasadena Ave,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1682174,34.11375721
+74,53:33.1,330 Pasadena Ave,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1680224,34.11399786
+75,55:06.1,334 Pasadena Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1678434,34.11423996
+76,56:44.9,324 Pasadena Ave,South Pasadena,CA,91030,8,Also with 322 Pasadena Ave.,Verified,7-9 units,< 14 units,-118.1683873,34.11357434
+77,05:07.4,900 Arroyo Dr,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1668314,34.11552802
+78,7/19/2022 23:07,310 Pasadena Ave,South Pasadena,CA,91030,21,None,Verified,10+ units,14+ units,-118.1690855,34.11272548
+79,10:58.9,320 Pasadena Ave,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1687434,34.11347504
+80,12:19.3,1012 Arroyo Dr,South Pasadena,CA,91030,16,Also with 1014 and 1016 Arroyo Dr.,Verified,10+ units,14+ units,-118.1692474,34.11371617
+81,18:02.7,1009 Arroyo Dr,South Pasadena,CA,91030,0,In progress. Units 4 and 5 may be near pool.,Tentative,,< 14 units,-118.1691282,34.11396983
+82,19:33.9,1000 Arroyo Dr,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1689515,34.11408951
+83,22:36.6,932 Arroyo Dr,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1681647,34.11474234
+84,9/7/2022 23:25,328 Pasadena Ave,South Pasadena,CA,91030,1,Parcel has two properties. QC reject. Mislabeled units.,Verified,1-3 units,< 14 units,-118.1681355,34.1138907
+85,26:56.0,938 Arroyo Dr,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1684147,34.11452784
+86,55:06.1,332 Pasadena Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1679299,34.11411946
+87,28:56.1,190 Monterey  Rd,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1730997,34.11070832
+88,34:42.3,127 Monterey Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1756924,34.10970818
+89,43:20.2,75 Monterey Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1778156,34.10928783
+90,25:29.4,265 Monterey Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1702774,34.11122174
+91,9/8/2022 6:28,254 Monterey Rd,South Pasadena,CA,91030,16,None. QC,Verified,10+ units,14+ units,-118.1707457,34.11145254
+92,30:31.9,230 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt. Gate locked. Also with 228 and 226 Monterey Rd.,Denied Entry,,< 14 units,-118.1715198,34.11115573
+93,9/8/2022 6:33,236 Monterey Rd,South Pasadena,CA,91030,18,None,Verified,10+ units,14+ units,-118.1712293,34.1112605
+94,35:25.4,317 Monterey Rd,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1690869,34.11131264
+95,37:14.0,241 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt gate locked.,Denied Entry,,< 14 units,-118.1712578,34.110894
+96,40:35.7,212 Monterey Rd,South Pasadena,CA,91030,0,Also with 202 Monterey Rd,Tentative,,< 14 units,-118.1723044,34.11095605
+97,41:48.2,200 Monterey Rd,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1726404,34.11081316
+98,45:06.7,174 Monterey Rd,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1735825,34.11057284
+99,49:21.4,170 Monterey Rd,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1737377,34.11054017
+100,52:11.8,185 Monterey Rd,South Pasadena,CA,91030,1,Appears to be abandoned and single-unit housing. QC reject,Verified,1-3 units,< 14 units,-118.1731746,34.1103458
+101,53:29.6,181 Monterey Rd,South Pasadena,CA,91030,1,Appears to be abandoned and single-unit housing. QC reject,Verified,1-3 units,< 14 units,-118.1733178,34.11030326
+102,56:42.7,167 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt. Gate locked. QC,Denied Entry,,< 14 units,-118.173597,34.1102076
+103,00:48.7,163 Monterey Rd,South Pasadena,CA,91030,0,4units. 1-4.,Tentative,,< 14 units,-118.1739781,34.11012621
+104,02:25.2,164 Monterey Rd,South Pasadena,CA,91030,0,22 units. A-U.,Tentative,,< 14 units,-118.1743365,34.11040524
+105,7/18/2022 7:05,154 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1745311,34.11034309
+106,7/18/2022 7:05,150 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1746457,34.11031647
+107,7/18/2022 7:08,133 Monterey Rd,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.175333,34.10979286
+108,7/18/2022 7:10,124 Monterey Rd,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1761869,34.10993493
+109,7/18/2022 7:14,92 Monterey Rd,South Pasadena,CA,91030,12,Also with 90 Monterey Rd.,Verified,10+ units,< 14 units,-118.1771709,34.10976566
+110,14:46.9,421 Mission St,South Pasadena,CA,91030,20,Also with 425 Mission St.,Verified,10+ units,14+ units,-118.165347,34.11547063
+111,9/7/2022 7:47,511 El Centro St,South Pasadena,CA,91030,4,QC - repaired,Verified,4-6 units,< 14 units,-118.1645611,34.11387061
+112,19:36.9,402 El Centro St,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1660495,34.11421791
+113,9/7/2022 7:45,356 El Centro St,South Pasadena,CA,91030,2, Unable to determine layout of units A-C. QC reject. Mislabeled units.,Verified,1-3 units,< 14 units,-118.1663105,34.11426971
+114,25:43.8,347 Pasadena Ave,South Pasadena,CA,91030,0,Units were not labeled.,Denied Entry,,< 14 units,-118.1667964,34.11476462
+115,28:50.2,339 Pasadena Ave,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1671604,34.11435287
+116,31:29.2,321 Pasadena Ave,South Pasadena,CA,91030,0,Unable to locate units 7-12.,Tentative,,< 14 units,-118.1680742,34.11329207
+117,33:27.0,316 Pasadena Ave,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1687377,34.11316086
+118,37:05.9,314 Pasadena Ave,South Pasadena,CA,91030,12,Also with 312 Pasadena Ave.,Verified,10+ units,< 14 units,-118.1689246,34.11302141
+119,7/23/2022 5:06,812 Orange Grove Ave,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1602399,34.11618386
+120,7/23/2022 5:08,810 Orange Grove Ave,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1602367,34.11635545
+121,7/23/2022 5:10,711 Orange Grove Ave,South Pasadena,CA,91030,0,Did not attempt. Door locked.,Denied Entry,,< 14 units,-118.1606868,34.11665686
+122,7/23/2022 5:13,701 Orange Grove Ave,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1607039,34.1171036
+123,7/23/2022 5:15,700 Orange Grove Ave,South Pasadena,CA,91030,0,In progress. 24 units.,Tentative,,< 14 units,-118.1601879,34.11703757
+124,7/23/2022 5:18,652 Orange Grove Ave,South Pasadena,CA,91030,18,None,Verified,10+ units,14+ units,-118.1602196,34.11755795
+125,7/23/2022 5:20,653 Orange Grove Ave,South Pasadena,CA,91030,14,Also with 657 Orange Grove Ave.,Verified,10+ units,14+ units,-118.160711,34.11754019
+126,7/23/2022 5:22,647 Orange Grove Ave,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.160706,34.11778957
+127,7/23/2022 5:25,639 Orange Grove Ave,South Pasadena,CA,91030,20,None,Verified,10+ units,14+ units,-118.1607066,34.11803554
+128,7/23/2022 5:27,631 Orange Grove Ave,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1608438,34.11838054
+129,7/23/2022 5:33,617 Orange Grove Ave,South Pasadena,CA,91030,14,Also with 615 Orange Grove Ave,Verified,10+ units,14+ units,-118.1607169,34.11876113
+130,7/23/2022 5:36,646 Orange Grove Ave,South Pasadena,CA,91030,0,Did not attempt. Gate locked.,Denied Entry,,< 14 units,-118.1601849,34.11780804
+131,7/23/2022 5:45,807 Prospect Ave,South Pasadena,CA,91030,16,None,Verified,10+ units,14+ units,-118.1587458,34.11631294
+132,7/23/2022 5:49,715 Prospect Ave,South Pasadena,CA,91030,19,None,Verified,10+ units,14+ units,-118.158727,34.1168556
+133,7/23/2022 5:50,714 Prospect Ave,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1583736,34.11681758
+134,7/23/2022 5:56,727 Meridian Ave,South Pasadena,CA,91030,24,Also with 929 Magnolia St,Verified,10+ units,14+ units,-118.15729,34.11693221
+135,7/23/2022 6:00,801 Meridian Ave,South Pasadena,CA,91030,20,None,Verified,10+ units,14+ units,-118.157297,34.11657664
+136,55:56.4,1916 Huntington Dr,South Pasadena,CA,91030,0,Units 1-4 on mailbox. Unit 5 in back of property. Entrance in front locked.,Denied Entry,,< 14 units,-118.1434939,34.10452234
+137,08:47.5,1712 Huntington Dr ,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1461095,34.10439671
+138,20:51.4,1644 Huntington Dr ,South Pasadena,CA,91030,0,Mapped 12 units but one entrance was locked. 4 units missing? Spoke to resident.,Denied Entry,,< 14 units,-118.1477396,34.10441855
+139,23:12.1,1638 Huntington Dr ,South Pasadena,CA,91030,12,Also with 1636 and 1640 Huntington Dr.,Verified,10+ units,< 14 units,-118.1480949,34.10438865
+140,46:02.7,1612 Huntington Dr ,South Pasadena,CA,91030,12,Also with 1616 Huntington Dr. 1616 address had both entrances locked.,Verified,10+ units,< 14 units,-118.1490654,34.1044507
+141,05:36.1,1515 Huntington Dr ,South Pasadena,CA,91030,14,"Also 1513, 1517, and 1519 Huntington Dr.",Verified,10+ units,14+ units,-118.1496795,34.10385777
+142,22:41.7,1721 Huntington Dr ,South Pasadena,CA,91030,11,None,Verified,10+ units,< 14 units,-118.1455482,34.10392596
+143,24:34.9,1731 Huntington Dr ,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1453021,34.10394126
+144,38:52.6,1809 Huntington Dr ,South Pasadena,CA,91030,6,"Abnormal spatial layout. B, e, g accessed on one side. C, d, f on other side. Gi is office. F unit is lone unit in back. Hard to observe in google maps imagery.",Verified,4-6 units,< 14 units,-118.1445459,34.10391526
+145,39:27.3,1811 Huntington Dr ,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1443725,34.10393807
+146,53:50.7,1931 Huntington Dr ,South Pasadena,CA,91030,0,Entrance locked. Units appear to be on second floor over commercial businesses.,Denied Entry,,< 14 units,-118.1426513,34.10395593
+147,55:10.3,1941 Huntington Dr ,South Pasadena,CA,91030,7,Site is a medical/ dental office. Units A-F no G. See pic.,Verified,7-9 units,< 14 units,-118.1422409,34.1039175
+148,43:25.3,1260,South Pasadena,CA,91030,15,Is an office building. Unable to map units inside 201. Rejected b/c commercial property.,Denied Entry,10+ units,14+ units,-118.1542919,34.1034519
+149,50:53.9,1150 Huntington Dr ,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1555326,34.10040496
+150,06:12.6,1120 Huntington Dr ,South Pasadena,CA,91030,24,Also with 1124 Huntington Dr.,Verified,10+ units,14+ units,-118.1556215,34.09942764
+151,10/12/2022 19:07,1170 Huntington Dr ,South Pasadena,CA,91030,20,None.,Verified,10+ units,14+ units,-118.1555054,34.10118299
+152,05:45.5,1155 Huntington Dr ,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1549431,34.10073773
+153,9/9/2022 19:36,1832 Fletcher Ave.,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1423266,34.10461655
+154,9/16/2022 22:52,1250 Huntington Dr ,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1547208,34.10303179
+155,9/16/2022 23:01,1234 Huntington Dr ,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1550268,34.10263994
+156,9/16/2022 23:21,1220 Huntington Dr,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1554003,34.10218871
+157,9/16/2022 23:38,1216 Huntington Dr ,South Pasadena,CA,91030,3,QC. Should be 4 units.,Tentative,1-3 units,< 14 units,-118.1553679,34.10200085
+158,9/17/2022 0:26,1156 Huntington Dr ,South Pasadena,CA,91030,6,Also with 1158 Huntington Dr. QC missing a unit. 2 units are stacked onto 1.,Tentative,4-6 units,< 14 units,-118.1555266,34.10070272
+159,9/17/2022 0:37,1152 Huntington Dr,South Pasadena,CA,91030,8,May be in the csv as 1154 Huntington Dr.,Verified,7-9 units,< 14 units,-118.1555343,34.10054962
+160,04:29.2,1654 Huntington Dr ,South Pasadena,CA,91030,8,Also with 1652 Huntington Dr.,Verified,7-9 units,< 14 units,-118.1475051,34.10440306
+161,9/16/2022 18:15,1137 Huntington Dr ,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1549588,34.10002653
+162,19:43.9,1125 Huntington Dr ,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1549842,34.09958691
+163,33:47.8,1127 Huntington Dr ,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1549844,34.09973665
+164,49:27.5,1171 Huntington Dr ,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1548162,34.10124729
+165,52:01.8,1207 Huntington Dr ,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1547928,34.10168929
+166,53:24.3,1223 Huntington Dr ,South Pasadena,CA,91030,6,Also with 1227 Huntington Dr. Gate for 1223 Huntington Dr was locked.,Verified,4-6 units,< 14 units,-118.1545693,34.10220981
+167,54:21.4,1221 Huntington Dr ,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.154702,34.10198387
+168,23:22.5,1253 Huntington Dr ,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1539795,34.10292913
+169,25:48.3,1263 Huntington Dr ,South Pasadena,CA,91030,12,Also with 1257 Huntington Dr.,Verified,10+ units,< 14 units,-118.1537671,34.10309155
+170,43:35.3,1211 Huntington Dr ,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1547726,34.10183806
+171,56:36.7,1313 Huntington Dr ,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1532634,34.10345462
+172,13:52.8,1499 Huntington Dr ,South Pasadena,CA,91030,0,Reject commercial,Denied Entry,,< 14 units,-118.1505276,34.10385221
+173,15:09.1,1445 Huntington Dr ,South Pasadena,CA,91030,0,Reject commercial,Denied Entry,,< 14 units,-118.1508725,34.10385274
+174,30:47.2,1628 Huntington Dr ,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1484137,34.10439519
+175,43:27.2,1624 Huntington Dr ,South Pasadena,CA,91030,6,Also with 1620 and 1622 Huntington Dr.,Verified,4-6 units,< 14 units,-118.1487495,34.10445342
+176,47:27.0,1308 Huntington Dr ,South Pasadena,CA,91030,12,None,Verified,10+ units,< 14 units,-118.153392,34.1040345
+177,50:40.3,1318 Huntington Dr ,South Pasadena,CA,91030,0,Reject b/c commercial,Denied Entry,,< 14 units,-118.1528454,34.1041973
+178,17:22.7,923 Fremont Ave,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1533218,34.11493508
+179,21:44.0,1001 Fremont Ave,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1533781,34.11448216
+180,33:49.7,1216 Fremont Ave,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1529428,34.11143456
+181,35:40.4,1414 Fremont Ave,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.1529532,34.10934168
+182,37:48.4,1609 Fremont Ave,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1533951,34.10724381
+183,9/17/2022 6:21,1136 Huntington Dr ,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1555664,34.09994184
+184,9/17/2022 6:24,1128 Huntington Dr ,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.1555645,34.09966211
+185,9/17/2022 6:26,1130 Huntington Dr ,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.1555697,34.09979954
+186,9/16/2022 7:03,1111 Huntington Dr ,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1549188,34.09910736
+187,37:01.1,1807 Huntington Dr ,South Pasadena,CA,91030,0,None,In Progress,,< 14 units,-118.153155,34.105478
+188,00:26.0,1811 Fremont Ave,South Pasadena,CA,91030,0,None,In Progress,,< 14 units,-118.153118,34.10527499
+189,07:32.2,1827 Fremont Ave,South Pasadena,CA,91030,0,None,In Progress,,< 14 units,-118.152828,34.10466358
+190,10/1/2022 23:21,1159 Huntington Dr,South Pasadena,CA,91030,4,Mailbox is labeled units 1-4.,Verified,4-6 units,< 14 units,-118.1549283,34.1009034
+191,9/24/2022 4:42,1700 Huntington Dr ,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1463709,34.10442106
+192,13:16.4,1115 Huntington Dr ,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.154828,34.09925598
+193,15:13.0,1119 Huntington Dr ,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1549603,34.09941327
+194,19:41.7,1163 Huntington Dr ,South Pasadena,CA,91030,0,Entrance locked. Strange sign.,Denied Entry,,< 14 units,-118.1548827,34.10107219
+195,17:01.9,1505 Huntington Dr ,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1500039,34.10388217
+196,19:31.4,1619 Huntington Dr ,South Pasadena,CA,91030,0,None,In Progress,,< 14 units,-118.1481316,34.10384904
+197,05:53.5,1720 Mission St,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1478872,34.11574078
+198,06:31.8,1700 Mission St,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1487231,34.11573195
+199,07:34.1,819 Park Ave,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1476536,34.11622681
+200,08:18.5,815 Park Ave ,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1476046,34.11638143
+201,41:05.5,702 Park Ave,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1475985,34.11803305
+202,42:05.7,1777 Grevelia St,South Pasadena,CA,91030,14,None,Verified,10+ units,14+ units,-118.1463828,34.1187499
+203,14:25.2,1804 Foothill St,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1461076,34.11981217
+204,15:10.1,1806 Foothill St,South Pasadena,CA,91030,0,None,Tentative,,< 14 units,-118.1457923,34.11974503
+205,22:09.0,1521 Huntington Dr ,South Pasadena,CA,91030,8,"Also with 1521, 1523, 1525, 1527, 1529, 1531, 1533, and 1535 Huntington Dr.",Verified,7-9 units,< 14 units,-118.1494404,34.1039055
+206,10/13/2022 4:53,2064 Meridian Ave,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1565929,34.09903796
+207,10/13/2022 4:57,2075 Meridian Ave,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1569656,34.09887472
+208,10/13/2022 5:03,2067 Meridian Ave,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1569793,34.09915328
+209,10/13/2022 5:05,2050 Meridian Ave ,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1565646,34.09959051
+210,10/13/2022 5:19,2038 Meridian Ave ,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1565618,34.09989261
+211,10/13/2022 5:42,2028 Meridian Ave ,South Pasadena,CA,91030,8,Also with 2030 Meridian Ave.,Verified,7-9 units,< 14 units,-118.156568,34.10016937
+212,10/13/2022 5:44,2020 Meridian Ave ,South Pasadena,CA,91030,4,"Also with 2022, 2024, and 2026 Meridian Ave.",Verified,4-6 units,< 14 units,-118.156584,34.10038181
+213,10/13/2022 5:50,1815 Meridian Ave ,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1577232,34.10326974
+214,10/13/2022 5:54,1805 Meridian Ave ,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.1576783,34.10359854
+215,10/13/2022 6:01,909 Summit Dr,South Pasadena,CA,91030,8,Also with 915 Summit Dr.,Verified,7-9 units,< 14 units,-118.1584284,34.10381169
+216,10/13/2022 6:12,1712 Gillette Crst,South Pasadena,CA,91030,5,Also with 1714 Gillette Crst.,Verified,4-6 units,< 14 units,-118.1579763,34.10488335
+217,10/13/2022 6:22,1716 Gillette Crst ,South Pasadena,CA,91030,3,Also with 1718 Gillette Crst.,Verified,1-3 units,< 14 units,-118.1581448,34.10485193
+218,10/13/2022 6:30,1750 Gillette Crst ,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1591197,34.10407288
+219,10/13/2022 6:40,1708 Meridian Ave,South Pasadena,CA,91030,12,Also with 1714 and 1718 Meridian Ave.,Verified,10+ units,< 14 units,-118.1569772,34.10489462
+220,10/12/2022 10:47,1724 Meridian Ave,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.156726,34.10437599
+221,10/12/2022 10:57,1824 Gillette Crst,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.158507,34.102803
+222,10/12/2022 11:02,1913 Meridian Ave ,South Pasadena,CA,91030,0,Connected to 708 Bonita,Tentative,,< 14 units,-118.157585,34.10264801
+223,10/12/2022 11:06,1100 Maple St,South Pasadena,CA,91030,4,Also with 1940 Meridian Ave,Verified,4-6 units,< 14 units,-118.1567533,34.10161953
+224,10/12/2022 11:28,2016 Meridian Ave,South Pasadena,CA,91030,11,None,Verified,10+ units,< 14 units,-118.1566016,34.10060899
+225,10/12/2022 12:03,2014 Meridian Ave,South Pasadena,CA,91030,9,None,Verified,7-9 units,< 14 units,-118.1566172,34.10080917
+226,10/12/2022 12:16,2004 Meridian Ave ,South Pasadena,CA,91030,3,Also with 2006 and 2008 Meridian Ave,Verified,1-3 units,< 14 units,-118.1566291,34.10097086
+227,10/13/2022 3:23,1236 Huntington Dr,South Pasadena,CA,91030,9,None,Verified,7-9 units,< 14 units,-118.1548956,34.10281416
+228,10/13/2022 3:33,1210 Huntington Dr ,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1554087,34.1018489
+229,10/13/2022 3:44,1206 Huntington Dr,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1554934,34.10171102
+230,10/13/2022 3:53,2035 Meridian Ave,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.156963,34.10029641
+231,10/13/2022 3:55,2045 Meridian Ave,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.157025,34.09984523
+232,10/13/2022 4:02,913 Valley View Rd,South Pasadena,CA,91030,3,Also with 2041 Meridian Ave,Verified,1-3 units,< 14 units,-118.1570135,34.09998662
+233,11/14/2022 5:19,1714 Fair Oaks Ave ,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1500964,34.10586523
+234,10/14/2022 4:21,1700 Fair Oaks Ave,South Pasadena,CA,91030,27,"Also with 1702, 1704, and 1706 Fair Oaks Ave",Verified,10+ units,14+ units,-118.1501229,34.10623691
+235,10/14/2022 4:55,1616 Fair Oaks Ave,South Pasadena,CA,91030,18,None,Verified,10+ units,14+ units,-118.1501017,34.10695106
+236,10/29/2022 4:59,1612 Fair Oaks Ave,South Pasadena,CA,91030,12,None,Verified,10+ units,< 14 units,-118.1500964,34.10732122
+237,10/14/2022 5:20,1600 Fair Oaks Ave,South Pasadena,CA,91030,4,"Also with 1602, 1604, and 1606 Fair Oaks Ave",Verified,4-6 units,< 14 units,-118.15006,34.10755067
+238,10/14/2022 5:23,1628 Bank St,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.14896,34.110231
+239,10/14/2022 5:33,1627 Lyndon St,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.148969,34.11076999
+240,10/14/2022 5:41,1621 Lyndon St,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.14931,34.11074598
+241,10/14/2022 5:47,711 Mound Ave ,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1518958,34.11727052
+242,10/14/2022 5:56,701 Mound Ave,South Pasadena,CA,91030,3,Also with 1419 and 1421 Magnolia St,Verified,1-3 units,< 14 units,-118.15203,34.11757698
+243,10/14/2022 6:03,603 Mound Ave,South Pasadena,CA,91030,6,Also with 1415 and 1417 Grevelia St,Verified,4-6 units,< 14 units,-118.152011,34.11870598
+244,10/14/2022 6:16,607 Mound Ave,South Pasadena,CA,91030,10,None,Verified,10+ units,< 14 units,-118.1519212,34.11854658
+245,10/14/2022 5:05,1418 Magnolia St,South Pasadena,CA,91030,7,None,Verified,7-9 units,< 14 units,-118.1523256,34.11783037
+246,10/14/2022 5:08,611 Mound Ave,South Pasadena,CA,91030,6,None,Verified,4-6 units,< 14 units,-118.1519234,34.1183947
+247,10/14/2022 5:16,604 Fremont Ave,South Pasadena,CA,91030,4,None,Verified,4-6 units,< 14 units,-118.1528262,34.11847124
+248,10/14/2022 5:36,608 Fremont Ave,South Pasadena,CA,91030,3,Also with 610 and 610 1/2 Fremont Ave ,Verified,1-3 units,< 14 units,-118.1528525,34.11833645
+249,10/14/2022 5:38,612 Fremont Ave,South Pasadena,CA,91030,8,None,Verified,7-9 units,< 14 units,-118.1528506,34.11818373
+250,10/14/2022 5:47,1127 Magnolia St,South Pasadena,CA,91030,9,None,Verified,7-9 units,< 14 units,-118.1538492,34.11764495
+251,10/14/2022 5:53,1128 Hope St,South Pasadena,CA,91030,3,None,Verified,1-3 units,< 14 units,-118.1538601,34.11689517
+252,10/29/2022 6:27,1508 1/2 Mission St,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.151249,34.11609099
+253,10/29/2022 6:30,812 Fremont Ave,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.152873,34.1163136
+254,10/29/2022 6:40,716 Fairview Ave ,South Pasadena,CA,91030,4,"Also with 718, 718 1/2 Fairview Ave, and 1100 Hope St.",Verified,4-6 units,< 14 units,-118.1549928,34.11693407
+255,10/29/2022 6:54,1043 Magnolia St,South Pasadena,CA,91030,6,"Also with 1041 Magnolia St, and 705, 707, 709, and 711 Fairview Ave.",Verified,4-6 units,< 14 units,-118.1553452,34.11763897
+256,10/28/2022 7:03,607 Fairview Ave,South Pasadena,CA,91030,4,"Also with 609, 611, and 613 Fairview Ave.",Verified,4-6 units,< 14 units,-118.155341,34.11847301
+257,10/28/2022 7:25,809 Meridian Ave,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.157358,34.11619401
+258,10/28/2022 7:32,1013 Mission St,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.1566331,34.11562919
+259,10/28/2022 7:34,905 Diamond Ave ,South Pasadena,CA,91030,0,Entrance locked.,Denied Entry,,< 14 units,-118.156374,34.11547702
+260,10/28/2022 7:39,1000 El Centro St,South Pasadena,CA,91030,0,In progress.,Tentative,,< 14 units,-118.1567063,34.11487559
+261,10/28/2022 7:41,909 El Centro St,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.1577976,34.11457774
+262,10/28/2022 7:49,1100 El Centro St,South Pasadena,CA,91030,0,Is a commercial property.,Denied Entry,,< 14 units,-118.154781,34.11497
+263,10/28/2022 7:53,1131 El Centro St,South Pasadena,CA,91030,0,Some units are accessible/ visible from st but majority are not. Gate locked.,Denied Entry,,< 14 units,-118.1546815,34.11460574
+264,10/28/2022 7:57,1151 El Centro St,South Pasadena,CA,91030,0,Is a commercial property.,Denied Entry,,< 14 units,-118.1541376,34.11458728
+265,10/28/2022 8:01,1401 Mission St,South Pasadena,CA,91030,0,Gate locked.,Denied Entry,,< 14 units,-118.152751,34.11548301
+266,41:52.6,628 Orange Grove Ave ,South Pasadena,CA,91030,0,Purple parcel,In Progress,,< 14 units,-118.1602044,34.11811622
+267,42:58.5,608 Orange Grove Ave ,South Pasadena,CA,91030,0,Purple parcel,In Progress,,< 14 units,-118.1601844,34.11852605
+268,45:55.5,830 Monterey Rd,South Pasadena,CA,91030,24,None,Verified,10+ units,14+ units,-118.1597804,34.11215611
+269,48:15.5,804 Orange Grove Pl,South Pasadena,CA,91030,4,"Also with 806, 808, and 810 Orange Grove Pl.",Verified,4-6 units,< 14 units,-118.1609316,34.11381706
+270,51:33.3,1200 Indiana Ave ,South Pasadena,CA,91030,43,Also with 1202 and 1204 Indiana Ave ,Verified,10+ units,14+ units,-118.164213,34.11114198
+271,10/29/2022,1424 Oxley St,South Pasadena,CA,91030,4,"Also with 1011, 1013, and 1015 Mound Ave ",Verified,4-6 units,< 14 units,-118.1519508,34.11397346
+272,10/29/2022 0:07,1100 Fremont Ave,South Pasadena,CA,91030,5,"Also with 1405, 1407, 1409, and 1411 Oxley St.",Verified,4-6 units,< 14 units,-118.152789,34.113576
+273,10/29/2022 0:09,1105 Mound Ave,South Pasadena,CA,91030,0,Resident,In Progress,,< 14 units,-118.1520047,34.11346594
+274,10/29/2022 0:10,1101 Mound Ave,South Pasadena,CA,91030,0,Resident,In Progress,,< 14 units,-118.152011,34.11358921
+275,10/29/2022 0:13,1424 Monterey Rd,South Pasadena,CA,91030,5,None,Verified,4-6 units,< 14 units,-118.1521186,34.1122441
+276,10/29/2022 0:16,1132 Fremont Ave,South Pasadena,CA,91030,13,None,Verified,10+ units,< 14 units,-118.1529096,34.11251097
